@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Current techs:
-[![Git](/git.png)](https://git-scm.com/)[![Github Actions](/githubactions.png)](https://github.com/features/actions)[![Javascript](/javasript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[![JSS](/jss.png)](https://cssinjs.org)[![Material-UI](/materialui.png)](https://material-ui.com/)[![MongoDB](/mongodb.png)](https://www.mongodb.com/)[![MongoDB Atlas](/mongodbatlas.png)](https://www.mongodb.com/cloud/atlas)[![Node.js](/nodejs.png)](https://nodejs.org)[![React](/react.png)](https://reactjs.org/)[![Redis](/redis.png)](https://redis.io/)[![Socket.IO](/socketio.png)](https://socket.io/)[![Typescript](/typescript.png)](https://www.typescriptlang.org/)
+[![Git](/git.png)](https://git-scm.com/)[![Github Actions](/githubactions.png)](https://github.com/features/actions)[![Javascript](/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[![JSS](/jss.png)](https://cssinjs.org)[![Material-UI](/materialui.png)](https://material-ui.com/)[![MongoDB](/mongodb.png)](https://www.mongodb.com/)[![MongoDB Atlas](/mongodbatlas.png)](https://www.mongodb.com/cloud/atlas)[![Node.js](/nodejs.png)](https://nodejs.org)[![React](/react.png)](https://reactjs.org/)[![Redis](/redis.png)](https://redis.io/)[![Socket.IO](/socketio.png)](https://socket.io/)[![Typescript](/typescript.png)](https://www.typescriptlang.org/)
 
 
 
