@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Current techs:
-[![Git](/git.png)](https://git-scm.com/)
+[![Git](/git.png =128x128)](https://git-scm.com/)
 
 
 <!--
