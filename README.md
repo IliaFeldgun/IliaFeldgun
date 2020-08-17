@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Current techs:
+[![Git](/git.png)](https://git-scm.com/)
+
+
 <!--
 **IliaFeldgun/IliaFeldgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
